@@ -13,7 +13,7 @@ import com.mycompany.app.model.*;
 class BasicStockService implements StockService {
 
     // Hard code price for now
-    private double price = 164.50;
+    private double price = 163.50;
     Calendar currdate = Calendar.getInstance();
 
     @Override
